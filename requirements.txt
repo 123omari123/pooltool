@@ -2,6 +2,6 @@ numpy
 pandas
 numba
 scipy
-panda3d==1.10.10
+panda3d==1.10.12
 panda3d-gltf
 panda3d-simplepbr
